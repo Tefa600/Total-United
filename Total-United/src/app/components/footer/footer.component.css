@@ -1,0 +1,66 @@
+.fa-twitter , .fa-facebook-f , .fa-linkedin, .fa-youtube-play{
+  color: blue;
+}
+
+.call-us{
+  font-family: Kanit;
+  text-align: left;
+
+}
+
+.contact-number{
+  font-size: 34px;
+  font-weight: 600;
+  font-family: Kanit;
+  text-align: left;
+
+
+}
+
+.footer-container{
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+footer{
+  height: 2.5rem;
+}
+
+.left-footer-container {
+  width: 40%;
+}
+.right-footer-container{
+  width: 60%;
+}
+
+.left-footer-container{
+  background-color: #D2153D;
+}
+.right-footer-container{
+  background-color: #00215B;
+}
+
+.right-footer-container-header{
+  font-family: Kanit;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.right-footer-container-list-links , .right-footer-container-list-contacts {
+  list-style: none;
+  text-align: left;
+  margin-left: 20%;
+}
+/*margin-bottom: 30px;*/
+
+.anchorless{
+  text-decoration: none;
+  color: white;
+}
+
+.copyright-word{
+  position: relative;
+  text-align: center;
+  
+}
