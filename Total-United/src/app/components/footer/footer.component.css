@@ -62,5 +62,25 @@ footer{
 .copyright-word{
   position: relative;
   text-align: center;
-  
+}
+
+.brochure-button{
+  background-color: #D2153D;
+  width: max-content;
+  padding: 16px;
+  color: white;
+  margin-left: 5%;
+}
+
+.pin{
+  padding-right: 5%;
+}
+.location-pin{
+  font-family: lato;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.row{
+  margin-bottom: 0;
 }
