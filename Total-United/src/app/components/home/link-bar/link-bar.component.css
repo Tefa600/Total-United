@@ -1,0 +1,13 @@
+.linkBar{
+  position: center;
+  width: 70%;
+  justify-content: center;
+  margin: auto;
+  text-align: right;
+  border-bottom: 1px solid #D4D7DD;
+  color: #001ED3;
+}
+
+.iconnat{
+  margin: 0 0.5rem 0;
+}
