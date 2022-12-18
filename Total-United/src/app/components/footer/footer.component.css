@@ -19,7 +19,7 @@
 
 .footer-container{
   display: flex;
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0;
   width: 100%;
 }
@@ -54,6 +54,9 @@ footer{
 }
 /*margin-bottom: 30px;*/
 
+.footerLogo{
+  color: white;
+}
 .anchorless{
   text-decoration: none;
   color: white;
