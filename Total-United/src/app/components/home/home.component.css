@@ -1,0 +1,154 @@
+/*global on service page*/
+.service{
+  font-family: Kanit;
+  font-weight: 700;
+  color: #D2153D;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.serviceHeaders{
+  color: #00215B;
+  font-size: 40px;
+  font-family: Kanit;
+  font-weight: 600;
+  line-height: 48px;
+
+}
+
+.serivceButtons{
+  background-color: #00215B;
+  padding: 2% 5%;
+  color: #FFFFFF;
+}
+
+.serviceInliners{
+  width: 90%;
+}
+
+/*global on service page*/
+
+
+
+
+/*section 1*/
+.mainPhoto{
+  background-image: url("src/assets/construction-silhouette 1 (1).svg");
+  width: 100%;
+  height: 925px;
+  /*position: relative;*/
+  background-color: #131D3B;
+}
+
+.onPicture{
+
+  width: 40%;
+  height: 30%;
+  /*text-align: center;*/
+  justify-content: center;
+  vertical-align: center;
+  padding: 20% 0;
+  margin: auto;
+}
+
+.sec1Btn {
+  background-color: #00215B;
+  padding: 3% 5%;
+  margin: 0.5% 35%;
+  color: #FFFFFF;
+}
+
+
+
+
+/*section 1*/
+
+/*Section 2*/
+.sec2{
+  display: flex;
+  width: 70%;
+  text-align: left ;
+  margin: auto;
+}
+
+.miniHeader{
+  font-family: lato;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 28px;
+  color: #00215B;
+}
+
+/*Section 2*/
+
+
+/*section 3*/
+.sec3{
+  width: 1068px;
+  text-align: center;
+  margin: auto;
+  height:fit-content;
+}
+
+.sec3Body{
+  display: flex;
+}
+
+.block1, .block3{
+  /*background-color: #D2153DD9;*/
+  height: 600px;
+}
+.block1{
+  background-image: url("src/assets/crane-and-building-construction-site-on-background-BPZXL3M.svg");
+  width: 400px;
+}
+.block2{
+  background-color: #00215BD9;
+  background-image: url("src/assets/industrial-landscape-building-crane-against-the-bl-8T3EXGK.svg");
+  width: 400px;
+
+}
+
+.block3{
+  background-image: url("src/assets/WhatsApp Image 2022-04-03 at 1.42 1.svg");
+  width: 400px;
+
+}
+
+.block1, .block2 , .block3{
+  position: relative;
+}
+
+.bHead{
+  font-family: Kanit;
+  font-weight: 600;
+  font-size: 40px;
+  color: #FFFFFF;
+  line-height: 48px;
+}
+
+.bInline{
+  font-family: lato;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+  line-height: 28px;
+  padding: 20px;
+  text-align: left;
+}
+.block1 btnBlock, .block3 btnBlock{
+  /*background-color: #00215B;*/
+}
+
+.block2 btnBlock{
+  /*background-color: #D2153D;*/
+
+}
+.btnBlock{
+  position: absolute;
+  bottom: 22px;
+  right: 50px;
+  width: 40px;
+  height: 40px;
+}
+/*section 3*/
