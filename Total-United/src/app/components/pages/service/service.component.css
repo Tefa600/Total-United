@@ -1,0 +1,63 @@
+/*global on service page*/
+.service{
+  font-family: Kanit;
+  font-weight: 700;
+  color: #D2153D;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.serviceHeaders{
+  color: #00215B;
+  font-size: 40px;
+  font-family: Kanit;
+  font-weight: 600;
+  line-height: 48px;
+
+}
+
+.serivceButtons{
+  background-color: #00215B;
+  padding: 2% 5%;
+  color: #FFFFFF;
+}
+
+.serviceInliners{
+  width: 90%;
+}
+
+/*global on service page*/
+
+
+
+
+/*section 1*/
+.mainPhoto{
+  background-image: url("src/assets/Hero-Service-Background.svg");
+  width: 100%;
+  height: 419px;
+}
+
+.onPicture{
+  padding-left: 20%;
+  padding-top: 5%;
+  position: relative;
+}
+
+
+/*section 1*/
+
+/*Section 2*/
+.sec2 , .sec3, .sec4{
+  display: flex;
+  width: 70%;
+  text-align: left ;
+  margin: auto;
+}
+
+/*Section 2*/
+
+
+.sec3Right{
+  margin-left: 5%;
+}
