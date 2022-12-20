@@ -10,6 +10,7 @@ export class HomeComponent implements OnInit {
   b1Inline="Turnkey projects, Fa code works, Mechanical and electrical ";
   b2Inline="Sport Flooring, squash court, Padel Courts, Sport equipment";
   b3Inline="Lorem Ipsum is simply dummy text of the printing";
+  sec5Inline="Suspendisse tortor enim, varius et porttitor sit amet, posuere vitae massa. Proin ac quam eu erat semper sagittis in vitae elit. Nam neque erat, semper vel ultrices in, finibus eu magna. Pellentesque habitant morbi tristique";
 
   constructor() { }
 

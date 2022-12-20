@@ -96,27 +96,28 @@
 
 .block1, .block3{
   /*background-color: #D2153DD9;*/
-  height: 600px;
+  height: 500px;
 }
 .block1{
-  background-image: url("src/assets/crane-and-building-construction-site-on-background-BPZXL3M.svg");
+  background-image: url("src/assets/service 1.svg");
   width: 400px;
 }
 .block2{
   background-color: #00215BD9;
-  background-image: url("src/assets/industrial-landscape-building-crane-against-the-bl-8T3EXGK.svg");
+  background-image: url("src/assets/service 2.svg");
   width: 400px;
 
 }
 
 .block3{
-  background-image: url("src/assets/WhatsApp Image 2022-04-03 at 1.42 1.svg");
+  background-image: url("src/assets/service 3.svg");
   width: 400px;
 
 }
 
 .block1, .block2 , .block3{
   position: relative;
+  padding: 3% 2.5%;
 }
 
 .bHead{
@@ -145,10 +146,57 @@
 
 }
 .btnBlock{
+  color: #FFFFFF;
+  font-family: FontAwesome ;
+  font-size:26px ;
+  font-weight: 900;
+  text-align: center;
+}
+
+.btnBlock1,.btnBlock2,.btnBlock3{
   position: absolute;
   bottom: 22px;
-  right: 50px;
-  width: 40px;
-  height: 40px;
+  right: 25px;
+  width: fit-content;
+  height: fit-content;
+  padding: 2%;
+  align-content: center;
+  color: #FFFFFF;
+}
+
+.btnBlock1,.btnBlock3{
+  background-color: #00215B;
+
+}
+.btnBlock2{
+  background-color: #D2153D;
+
 }
 /*section 3*/
+
+
+/*section 4*/
+.subs{
+  display: flex;
+}
+
+/*section 4*/
+
+/*section 5*/
+.sec5{
+  display: flex;
+}
+
+.sec5Right{
+  text-align: left;
+
+}
+
+.title{
+  color: #001ED3;
+}
+.ending{
+  display: flex;
+
+}
+/*section 5*/
